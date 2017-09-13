@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Windows.Input;
-using Windows.Devices.Bluetooth.Background;
 
-namespace Excersise_2.Helpers
+namespace Library.Command
 {
     public sealed class RelayCommand : ICommand
     {

@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace Excersise_2.Helpers
+namespace Library.Model
 {
     public abstract class BindableBase : INotifyPropertyChanged
     {
